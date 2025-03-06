@@ -12,9 +12,7 @@ public class EmpezandoConFicheros {
         
         File directorio1  = new File("C:\\Users\\Tardes\\Ejercicioficheros\\imagenes\\");
         directorio1.mkdir();
-         
-        String [] directorios = {}
-        File directorioImagenes = new File ("imagenes");
+                 File directorioImagenes = new File ("imagenes");
 
         File directorioDocumentos  = new File ("documentos");
         File directorioOtros      = new File ("otros");
